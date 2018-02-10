@@ -1,7 +1,7 @@
 {
   "name": "node-x15",
-  "version": "1.0.0-beta.2",
-  "main": "x15",
+  "version": "1.0.0-beta.3",
+  "main": "index.js",
   "productName": "node-x15",
   "description": "WorldMobileCoin © WMCC Node-x15 Hashing Algorithm",
   "homepage": "https://github.com/WorldMobileCoin/node-x15",
